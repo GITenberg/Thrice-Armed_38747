@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1256
     wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38747#Thrice-Armed
 gutenberg_issued: '2012-02-01'
 gutenberg_type: Text
 identifiers:
